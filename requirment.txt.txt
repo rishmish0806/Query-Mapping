@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-sentence-transformers==2.2.2
-torch==1.13.1
-transformers==4.21.3
-scikit-learn
